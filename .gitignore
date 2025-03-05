@@ -4,6 +4,14 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+.idea/
+*.iml
+target/
+*.class
+*.log
+*.jar
+*.db
+
 .apt_generated
 .classpath
 .factorypath
