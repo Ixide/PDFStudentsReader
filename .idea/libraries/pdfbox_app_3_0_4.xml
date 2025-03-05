@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pdfbox-app-3.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pdfbox-app-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
