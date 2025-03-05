@@ -25,6 +25,7 @@ cd your-repo
 ```
 
 ### 2. Настройка базы данных
+Запустите SQL Workbench
 Создайте базу данных и таблицу, используя следующий SQL-код:
 ```sql
 DROP DATABASE IF EXISTS student_db;
@@ -60,7 +61,7 @@ private static final String DB_PASSWORD = "yourpassword";
 3. Данные автоматически сохранятся в базе данных.
 
 ## Авторы
-- **Ваше имя** (yourusername)
+- **Ваше имя** (Ixide)
 
 ## Лицензия
 Этот проект распространяется под лицензией MIT.
